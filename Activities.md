@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td><!-- Lunes 7 de marzo --></td>
     <td>
       <b>Kick off</b>
       <p>
